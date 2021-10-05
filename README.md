@@ -3,7 +3,7 @@
 
 
 
-# Introduction 🔥🔥🔥
+
 <h1 align="center">Hlo everyone. I am MD FARDIN AMIN from 1st year IT dept.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardin123amin&label=Profile%20views&color=0e75b6&style=flat" alt="fardin123amin" /> </p>
