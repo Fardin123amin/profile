@@ -3,7 +3,7 @@
 
 
 # Introduction 🔥🔥🔥
-<h1 align="center">Hlo everyone. I am MD FARDIN AMIN from 1st year IT dept.
+<h1 align="center">Hlo everyone. I am MD FARDIN AMIN from 1st year IT dept.</h1>
 
 
 
