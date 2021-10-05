@@ -1,7 +1,7 @@
 
 ![image](https://github.com/Fardin123amin/Day-3/blob/main/Screenshot_2021-10-02-01-53-17-12_99c04817c0de5652397fc8b56c3b3817.jpg)
 
-![image]()
+![image](https://github.com/Fardin123amin/profile/blob/main/giphy.webp)
 
 # Introduction 🔥🔥🔥
 <h1 align="center">Hlo everyone. I am MD FARDIN AMIN from 1st year IT dept.</h1>
